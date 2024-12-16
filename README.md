@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: implicit error handling.  The `MyFunction` example abruptly terminates if input parameters are empty. The solution shows explicit error handling to make the script more robust.
